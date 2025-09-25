@@ -9,7 +9,7 @@ The tool does not attempt to interpret application responses. It is built to del
 
 ## Installation
 ```bash
-git clone https://github.com/indevi0us/misanthro.py
+git clone https://github.com/venomnis/misanthro.py
 cd misanthro.py/
 pip install -r requirements.txt
 ```
