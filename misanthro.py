@@ -52,7 +52,7 @@ def print_banner():
         print(f"\033[91m{ascii_art}\033[0m")
     print()
     print("Attacking indiscriminately every \033[91mheader\033[0m, \033[91mcookie\033[0m, \033[91mGET\033[0m and \033[91mPOST parameter\033[0m with \033[91mblind fury\033[0m.")
-    print("Made with \033[91mHATE\033[0m by \033[91mindevi0us\033[0m.\n")
+    print("Made with \033[91mHATE\033[0m by \033[91mvenomnis\033[0m.\n")
 
 def format_time():
     now = datetime.datetime.now()
